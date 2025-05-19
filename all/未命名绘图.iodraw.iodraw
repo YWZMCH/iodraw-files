@@ -19,7 +19,7 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="OLED显示数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-9" value="自动化操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
