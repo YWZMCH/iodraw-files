@@ -16,8 +16,8 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-4" value="采集环境参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="310" width="120" height="30" as="geometry" />
+        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="OLED显示参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
