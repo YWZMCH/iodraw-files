@@ -10,6 +10,9 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-1" value="上电初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-2" target="Al2EnaBv3l9Ksjf9z_SY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-2" value="硬件初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="30" as="geometry" />
         </mxCell>
@@ -17,7 +20,7 @@
           <mxGeometry x="360" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-4" value="采集传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="OLED显示数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="30" as="geometry" />
