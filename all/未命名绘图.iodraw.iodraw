@@ -22,7 +22,7 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-3" value="连接云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-4" target="Al2EnaBv3l9Ksjf9z_SY-9">
+        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-4" target="Al2EnaBv3l9Ksjf9z_SY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-4" value="采集传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -32,7 +32,7 @@
           <mxGeometry x="360" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-9" value="自动化控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-10" value="上传数据到云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="120" height="30" as="geometry" />
