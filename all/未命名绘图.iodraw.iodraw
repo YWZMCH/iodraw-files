@@ -26,22 +26,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-4" value="采集传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="290" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-5" target="Al2EnaBv3l9Ksjf9z_SY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="OLED显示数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="340" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-9" target="Al2EnaBv3l9Ksjf9z_SY-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-9" value="自动化控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-10" value="上传数据到云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="500" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="440" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-24" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="60" height="170" as="geometry" />
