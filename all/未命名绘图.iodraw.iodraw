@@ -22,6 +22,9 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-7" value="光照强度&amp;gt;阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-8" value="光照强度&amp;gt;阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
