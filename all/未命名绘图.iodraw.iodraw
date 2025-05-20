@@ -22,6 +22,9 @@
         <mxCell id="W1DESffC5IZMS-ApJg17-5" value="转化为标准单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="330" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="W1DESffC5IZMS-ApJg17-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W1DESffC5IZMS-ApJg17-6" target="W1DESffC5IZMS-ApJg17-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W1DESffC5IZMS-ApJg17-6" value="触发ADC转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="130" width="120" height="30" as="geometry" />
         </mxCell>
