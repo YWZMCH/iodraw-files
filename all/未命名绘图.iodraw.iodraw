@@ -19,8 +19,8 @@
         <mxCell id="W1DESffC5IZMS-ApJg17-2" value="对数据进行滤波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="230" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W1DESffC5IZMS-ApJg17-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="200" width="120" height="30" as="geometry" />
+        <mxCell id="W1DESffC5IZMS-ApJg17-5" value="转化为标准单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="290" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
