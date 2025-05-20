@@ -10,8 +10,11 @@
         <mxCell id="CRTQ9Sje6FWsq-8Q6zc6-3" value="创建产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CRTQ9Sje6FWsq-8Q6zc6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="120" height="30" as="geometry" />
+        <mxCell id="CRTQ9Sje6FWsq-8Q6zc6-4" value="设备开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRTQ9Sje6FWsq-8Q6zc6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
