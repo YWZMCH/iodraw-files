@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="W1DESffC5IZMS-ApJg17-0" value="初始化ADC通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="354" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1DESffC5IZMS-ApJg17-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W1DESffC5IZMS-ApJg17-1" target="W1DESffC5IZMS-ApJg17-2">
           <mxGeometry relative="1" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="W1DESffC5IZMS-ApJg17-5" value="转化为标准单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W1DESffC5IZMS-ApJg17-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="160" width="120" height="30" as="geometry" />
+        <mxCell id="W1DESffC5IZMS-ApJg17-6" value="触发ADC转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="130" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
