@@ -85,6 +85,9 @@
         <mxCell id="7twFHsOI7-sMXb7I0_f1-5" value="是否需要报警" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7twFHsOI7-sMXb7I0_f1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
