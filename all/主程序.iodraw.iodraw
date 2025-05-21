@@ -86,16 +86,18 @@
           <mxGeometry x="360" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="120" height="20" as="geometry" />
+          <mxGeometry x="510" y="390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="399.71" as="sourcePoint" />
-            <mxPoint x="580" y="400" as="targetPoint" />
+            <mxPoint x="480" y="399.71" as="sourcePoint" />
+            <mxPoint x="510" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-8" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7twFHsOI7-sMXb7I0_f1-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
