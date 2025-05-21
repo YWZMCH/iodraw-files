@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-9" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="640" y="270" width="50" height="230" as="geometry" />
+          <mxGeometry x="640" y="270" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-11" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="510" y="675.0000000000001" width="60" height="30" as="geometry" />
@@ -149,8 +149,8 @@
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="559" as="sourcePoint" />
-            <mxPoint x="560" y="560" as="targetPoint" />
+            <mxPoint x="500" y="599.5" as="sourcePoint" />
+            <mxPoint x="530" y="600.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-39" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7twFHsOI7-sMXb7I0_f1-38">
