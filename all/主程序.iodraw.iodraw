@@ -132,6 +132,12 @@
         <mxCell id="7twFHsOI7-sMXb7I0_f1-26" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7twFHsOI7-sMXb7I0_f1-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7twFHsOI7-sMXb7I0_f1-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="740" as="sourcePoint" />
+            <mxPoint x="350" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
