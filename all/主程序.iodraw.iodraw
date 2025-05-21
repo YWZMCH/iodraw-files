@@ -83,10 +83,7 @@
           <mxGeometry x="180" y="280" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-2" value="是否开启自动模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="490" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7twFHsOI7-sMXb7I0_f1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7twFHsOI7-sMXb7I0_f1-11" target="7twFHsOI7-sMXb7I0_f1-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="360" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-5" value="是否需要报警" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="40" as="geometry" />
@@ -104,15 +101,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7twFHsOI7-sMXb7I0_f1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7twFHsOI7-sMXb7I0_f1-5" target="7twFHsOI7-sMXb7I0_f1-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="420" as="sourcePoint" />
-            <mxPoint x="420" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7twFHsOI7-sMXb7I0_f1-11" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="460" y="430.0000000000001" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
