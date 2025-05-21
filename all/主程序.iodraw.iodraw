@@ -149,11 +149,11 @@
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="540" as="sourcePoint" />
-            <mxPoint x="540" y="540" as="targetPoint" />
+            <mxPoint x="530" y="559" as="sourcePoint" />
+            <mxPoint x="580" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7twFHsOI7-sMXb7I0_f1-39" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7twFHsOI7-sMXb7I0_f1-38">
+        <mxCell id="7twFHsOI7-sMXb7I0_f1-39" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="7twFHsOI7-sMXb7I0_f1-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
