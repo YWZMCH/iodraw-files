@@ -34,6 +34,9 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="OLED显示数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="340" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="aIX4PRRJXLMKqI2rn3Pd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-9" target="aIX4PRRJXLMKqI2rn3Pd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-9" value="自动化控制和报警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="390" width="120" height="20" as="geometry" />
         </mxCell>
@@ -52,6 +55,9 @@
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-1" value="是否接受到云平台控制命令" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIX4PRRJXLMKqI2rn3Pd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
