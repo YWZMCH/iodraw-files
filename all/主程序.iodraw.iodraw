@@ -38,18 +38,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-10" value="上传数据到云平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="570" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="520" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-1" value="是否接受到云平台控制命令" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="610" width="160" height="40" as="geometry" />
+          <mxGeometry x="340" y="560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-3" value="解析命令并进行操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="680" width="120" height="20" as="geometry" />
+          <mxGeometry x="360" y="630" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aIX4PRRJXLMKqI2rn3Pd-1" target="aIX4PRRJXLMKqI2rn3Pd-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="670" as="sourcePoint" />
-            <mxPoint x="520" y="670" as="targetPoint" />
+            <mxPoint x="420" y="620" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-5" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="aIX4PRRJXLMKqI2rn3Pd-4" connectable="0" vertex="1">
