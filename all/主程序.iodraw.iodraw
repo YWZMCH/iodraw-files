@@ -84,7 +84,7 @@
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-13" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="280" width="50" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="7twFHsOI7-sMXb7I0_f1-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7twFHsOI7-sMXb7I0_f1-2" value="是否开启自动模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
