@@ -76,8 +76,8 @@
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-11" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="495" y="495.0000000000001" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIX4PRRJXLMKqI2rn3Pd-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="400" width="50" height="100" as="geometry" />
+        <mxCell id="aIX4PRRJXLMKqI2rn3Pd-13" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380.0000000000001" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
