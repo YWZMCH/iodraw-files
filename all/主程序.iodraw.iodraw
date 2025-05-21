@@ -28,17 +28,18 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-4" value="采集传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="290" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-5" target="Al2EnaBv3l9Ksjf9z_SY-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.02857142857147" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="OLED显示数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="340" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aIX4PRRJXLMKqI2rn3Pd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-9" target="Al2EnaBv3l9Ksjf9z_SY-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Al2EnaBv3l9Ksjf9z_SY-9" value="自动化控制和报警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="390" width="120" height="20" as="geometry" />
+        <mxCell id="aIX4PRRJXLMKqI2rn3Pd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Al2EnaBv3l9Ksjf9z_SY-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.02857142857147" y="410" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aIX4PRRJXLMKqI2rn3Pd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-10" target="aIX4PRRJXLMKqI2rn3Pd-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
