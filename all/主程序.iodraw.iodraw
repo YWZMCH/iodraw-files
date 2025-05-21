@@ -28,6 +28,9 @@
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-4" value="采集传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="290" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="7twFHsOI7-sMXb7I0_f1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Al2EnaBv3l9Ksjf9z_SY-5" target="7twFHsOI7-sMXb7I0_f1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Al2EnaBv3l9Ksjf9z_SY-5" value="OLED显示数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="340" width="120" height="20" as="geometry" />
         </mxCell>
@@ -80,7 +83,7 @@
           <mxGeometry x="180" y="280" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-2" value="是否开启自动模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7twFHsOI7-sMXb7I0_f1-5" value="是否需要报警" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="40" as="geometry" />
