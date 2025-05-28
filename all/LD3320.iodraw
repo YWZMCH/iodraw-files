@@ -11,10 +11,10 @@
           <mxGeometry x="320" y="210" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TR-g2ZHOYsPEVtDU49ZD-5" value="语音数据采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="250" width="120" height="30" as="geometry" />
+          <mxGeometry x="320" y="250" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TR-g2ZHOYsPEVtDU49ZD-6" value="是否包括提示词" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="325" y="320" width="110" height="40" as="geometry" />
+          <mxGeometry x="325" y="290" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yuto2eNVZqKvQ6YepytF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TR-g2ZHOYsPEVtDU49ZD-7" target="TR-g2ZHOYsPEVtDU49ZD-8">
           <mxGeometry relative="1" as="geometry" />
