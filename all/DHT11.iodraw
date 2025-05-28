@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="tKUoMCAkdV6kJujdsJnU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tKUoMCAkdV6kJujdsJnU-1" target="tKUoMCAkdV6kJujdsJnU-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKUoMCAkdV6kJujdsJnU-1" value="DHT11初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tKUoMCAkdV6kJujdsJnU-4" target="kJMT3rLyxIH-fRLruxB4-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="290" />
+              <mxPoint x="360" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKUoMCAkdV6kJujdsJnU-4" value="STM32发送读取信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-1" value="DHT11是否响应" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kJMT3rLyxIH-fRLruxB4-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.02857142857147" y="440.00816326530617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-3" value="读取数据" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kJMT3rLyxIH-fRLruxB4-1" target="kJMT3rLyxIH-fRLruxB4-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="361" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-6" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="kJMT3rLyxIH-fRLruxB4-5" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-9" value="得到温湿度值" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="500" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kJMT3rLyxIH-fRLruxB4-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="219.8571428571429" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="220" />
+              <mxPoint x="430" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="220" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-21" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kJMT3rLyxIH-fRLruxB4-23" target="kJMT3rLyxIH-fRLruxB4-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kJMT3rLyxIH-fRLruxB4-23" value="解析并校验数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2nrM9plDSnz-iHSmJnx-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
