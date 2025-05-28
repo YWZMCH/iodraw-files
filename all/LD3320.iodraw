@@ -23,7 +23,7 @@
           <mxGeometry x="320" y="350" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TR-g2ZHOYsPEVtDU49ZD-8" value="通过串口发送指令" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="390" width="120" height="30" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yuto2eNVZqKvQ6YepytF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TR-g2ZHOYsPEVtDU49ZD-9" target="Yuto2eNVZqKvQ6YepytF-2">
           <mxGeometry relative="1" as="geometry" />
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="Yuto2eNVZqKvQ6YepytF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379.58" y="470" as="sourcePoint" />
-            <mxPoint x="379.58" y="490" as="targetPoint" />
+            <mxPoint x="379.58" y="410" as="sourcePoint" />
+            <mxPoint x="379.58" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yuto2eNVZqKvQ6YepytF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
