@@ -57,8 +57,8 @@
         </mxCell>
         <mxCell id="Yuto2eNVZqKvQ6YepytF-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="281" y="340" as="sourcePoint" />
-            <mxPoint x="281" y="378" as="targetPoint" />
+            <mxPoint x="379.58" y="180" as="sourcePoint" />
+            <mxPoint x="379.58" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
