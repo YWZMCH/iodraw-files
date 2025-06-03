@@ -22,21 +22,17 @@
         <mxCell id="tKUoMCAkdV6kJujdsJnU-6" value="连接OneNET云平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tKUoMCAkdV6kJujdsJnU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tKUoMCAkdV6kJujdsJnU-10" target="tKUoMCAkdV6kJujdsJnU-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tKUoMCAkdV6kJujdsJnU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tKUoMCAkdV6kJujdsJnU-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.9999999999998" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tKUoMCAkdV6kJujdsJnU-10" value="订阅TOPIC主题" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8RkC2uX6V1mlSlhXo11-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tKUoMCAkdV6kJujdsJnU-12" target="Z8RkC2uX6V1mlSlhXo11-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tKUoMCAkdV6kJujdsJnU-12" value="接收STM32发来的数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="410" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z8RkC2uX6V1mlSlhXo11-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z8RkC2uX6V1mlSlhXo11-1" edge="1">
+        <mxCell id="Z8RkC2uX6V1mlSlhXo11-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Z8RkC2uX6V1mlSlhXo11-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360.0344827586207" y="510.00985221674864" as="targetPoint" />
+            <mxPoint x="360.0344827586207" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8RkC2uX6V1mlSlhXo11-1" value="将数据发送到云平台" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
