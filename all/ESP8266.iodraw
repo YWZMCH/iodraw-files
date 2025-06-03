@@ -34,15 +34,12 @@
         <mxCell id="tKUoMCAkdV6kJujdsJnU-12" value="接收STM32发来的数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="410" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tKUoMCAkdV6kJujdsJnU-14" value="是否接收到云平台消息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="510" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tKUoMCAkdV6kJujdsJnU-26" value="发送命令给STM32" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="585" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tKUoMCAkdV6kJujdsJnU-27" value="Y" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tKUoMCAkdV6kJujdsJnU-14" target="tKUoMCAkdV6kJujdsJnU-26" edge="1">
+        <mxCell id="tKUoMCAkdV6kJujdsJnU-27" value="Y" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tKUoMCAkdV6kJujdsJnU-26" edge="1">
           <mxGeometry x="-0.0127" relative="1" as="geometry">
-            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="359.9999999999998" y="550" as="sourcePoint" />
             <mxPoint x="490" y="450" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,8 +47,10 @@
         <mxCell id="tKUoMCAkdV6kJujdsJnU-43" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="515" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8RkC2uX6V1mlSlhXo11-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z8RkC2uX6V1mlSlhXo11-1" target="tKUoMCAkdV6kJujdsJnU-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Z8RkC2uX6V1mlSlhXo11-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z8RkC2uX6V1mlSlhXo11-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.0344827586207" y="510.00985221674864" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z8RkC2uX6V1mlSlhXo11-1" value="将数据发送到云平台" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="461.13" width="120" height="27.5" as="geometry" />
