@@ -47,30 +47,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z8RkC2uX6V1mlSlhXo11-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="390.9310344827586" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="390" />
-              <mxPoint x="400" y="390" />
-            </Array>
-            <mxPoint x="425" y="389.9999999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tKUoMCAkdV6kJujdsJnU-43" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="515" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tKUoMCAkdV6kJujdsJnU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tKUoMCAkdV6kJujdsJnU-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="390.1428571428571" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="310" y="390" />
-              <mxPoint x="310" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tKUoMCAkdV6kJujdsJnU-44" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="169.5" y="470.13" width="209" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z8RkC2uX6V1mlSlhXo11-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z8RkC2uX6V1mlSlhXo11-1" target="tKUoMCAkdV6kJujdsJnU-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
