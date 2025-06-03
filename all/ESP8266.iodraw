@@ -30,13 +30,8 @@
         <mxCell id="tKUoMCAkdV6kJujdsJnU-10" value="订阅TOPIC主题" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z8RkC2uX6V1mlSlhXo11-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Z8RkC2uX6V1mlSlhXo11-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360.0344827586207" y="440" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Z8RkC2uX6V1mlSlhXo11-1" value="将数据发送到云平台" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="461.13" width="120" height="27.5" as="geometry" />
+          <mxGeometry x="300" y="440" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="m_z8mkKF7xpg4EC-qkrE-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="140.0000000000001" width="120" height="30" as="geometry" />
